@@ -2,6 +2,10 @@
 using namespace std;
 
 
+struct Product {
+	string name;
+};
+
 void main() {
 
 	cout << "Salam" << endl;
